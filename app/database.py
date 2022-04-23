@@ -27,7 +27,7 @@ def get_db():
 
 
 
-#while True:
+##while True:
 
 #    try:
 #        conn = psycopg.connect(host='localhost', dbname='pythonapi', user='postgres',
